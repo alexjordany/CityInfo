@@ -1552,3 +1552,7 @@ System.IO.IOException:  Received an unexpected EOF or 0 bytes from the transport
 2022-09-27 21:43:05.828 -06:00 [INF] Executed endpoint 'CityInfo.API.Controllers.AuthenticationController.Authenticate (CityInfo.API)'
 2022-09-27 21:43:05.829 -06:00 [DBG] Connection id "0HML10E6CNST6" completed keep alive response.
 2022-09-27 21:43:05.839 -06:00 [INF] Request finished HTTP/1.1 POST https://localhost:7083/api/authentication/authenticate application/json 114 - 200 - text/plain;+charset=utf-8 902.8219ms
+2022-09-27 21:54:55.358 -06:00 [DBG] Connection id "0HML10E6CNST6" received FIN.
+2022-09-27 21:54:55.391 -06:00 [DBG] Connection id "0HML10E6CNST6" sending FIN because: "The client closed the connection."
+2022-09-27 21:54:55.397 -06:00 [DBG] Connection id "0HML10E6CNST6" disconnecting.
+2022-09-27 21:54:55.405 -06:00 [DBG] Connection id "0HML10E6CNST6" stopped.

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "KBPLDd25F8OJaovIwqHPzGwGfHTiKfkvAu/krFtEt3RqkpjHNMzSvnqAOP1QKVywvs4ljY6xRqQrT/rMR+ohTg==",
+  "dgSpecHash": "irVCP7ym/pfKdVduvmbXHKu2zllMlmmMDFrzEZc7RCiIR8qqJv+qp4nQoegEM0vW8urgFCsTNH4DYAm5BNVDTA==",
   "success": true,
   "projectFilePath": "/Users/alexparrales/Projects/CityInfo/CityInfo.API/CityInfo.API/CityInfo.API.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,7 @@
     "/Users/alexparrales/.nuget/packages/messagepack/2.1.152/messagepack.2.1.152.nupkg.sha512",
     "/Users/alexparrales/.nuget/packages/messagepack.annotations/2.1.152/messagepack.annotations.2.1.152.nupkg.sha512",
     "/Users/alexparrales/.nuget/packages/messagepackanalyzer/2.1.152/messagepackanalyzer.2.1.152.nupkg.sha512",
+    "/Users/alexparrales/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/6.0.9/microsoft.aspnetcore.authentication.jwtbearer.6.0.9.nupkg.sha512",
     "/Users/alexparrales/.nuget/packages/microsoft.aspnetcore.jsonpatch/6.0.9/microsoft.aspnetcore.jsonpatch.6.0.9.nupkg.sha512",
     "/Users/alexparrales/.nuget/packages/microsoft.aspnetcore.mvc.newtonsoftjson/6.0.9/microsoft.aspnetcore.mvc.newtonsoftjson.6.0.9.nupkg.sha512",
     "/Users/alexparrales/.nuget/packages/microsoft.aspnetcore.razor.language/6.0.0/microsoft.aspnetcore.razor.language.6.0.0.nupkg.sha512",
@@ -62,6 +63,8 @@
     "/Users/alexparrales/.nuget/packages/microsoft.identitymodel.abstractions/6.23.1/microsoft.identitymodel.abstractions.6.23.1.nupkg.sha512",
     "/Users/alexparrales/.nuget/packages/microsoft.identitymodel.jsonwebtokens/6.23.1/microsoft.identitymodel.jsonwebtokens.6.23.1.nupkg.sha512",
     "/Users/alexparrales/.nuget/packages/microsoft.identitymodel.logging/6.23.1/microsoft.identitymodel.logging.6.23.1.nupkg.sha512",
+    "/Users/alexparrales/.nuget/packages/microsoft.identitymodel.protocols/6.10.0/microsoft.identitymodel.protocols.6.10.0.nupkg.sha512",
+    "/Users/alexparrales/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/6.10.0/microsoft.identitymodel.protocols.openidconnect.6.10.0.nupkg.sha512",
     "/Users/alexparrales/.nuget/packages/microsoft.identitymodel.tokens/6.23.1/microsoft.identitymodel.tokens.6.23.1.nupkg.sha512",
     "/Users/alexparrales/.nuget/packages/microsoft.net.stringtools/1.0.0/microsoft.net.stringtools.1.0.0.nupkg.sha512",
     "/Users/alexparrales/.nuget/packages/microsoft.netcore.platforms/2.1.2/microsoft.netcore.platforms.2.1.2.nupkg.sha512",

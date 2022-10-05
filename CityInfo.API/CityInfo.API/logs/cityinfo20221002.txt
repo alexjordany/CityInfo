@@ -1,0 +1,13 @@
+2022-10-02 14:50:43.692 -06:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2022-10-02 14:50:44.052 -06:00 [DBG] Hosting starting
+2022-10-02 14:50:44.192 -06:00 [DBG] Using development certificate: CN=localhost (Thumbprint: 050545F3EFDBD90D69CE56DB4ED1F7E34A4D3CF8)
+2022-10-02 14:50:44.215 -06:00 [INF] Now listening on: https://localhost:7083
+2022-10-02 14:50:44.215 -06:00 [INF] Now listening on: http://localhost:5066
+2022-10-02 14:50:44.215 -06:00 [DBG] Loaded hosting startup assembly CityInfo.API
+2022-10-02 14:50:44.215 -06:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-10-02 14:50:44.216 -06:00 [INF] Hosting environment: Development
+2022-10-02 14:50:44.216 -06:00 [INF] Content root path: /Users/alexparrales/Projects/CityInfo/CityInfo.API/CityInfo.API/
+2022-10-02 14:50:44.217 -06:00 [DBG] Hosting started
+2022-10-02 19:45:25.915 -06:00 [INF] Application is shutting down...
+2022-10-02 19:45:25.919 -06:00 [DBG] Hosting stopping
+2022-10-02 19:45:25.949 -06:00 [DBG] Hosting stopped
