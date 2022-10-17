@@ -802,3 +802,6 @@ WHERE changes() = 1 AND "rowid" = last_insert_rowid();
 2022-10-04 22:41:08.228 -06:00 [DBG] Connection id "0HML6HDRNH67G" disconnecting.
 2022-10-04 22:41:08.232 -06:00 [DBG] Connection id "0HML6HDRNH67G" stopped.
 2022-10-04 22:41:08.233 -06:00 [DBG] Connection id "0HML6HDRNH67G" sending FIN because: "The Socket transport's send loop completed gracefully."
+2022-10-04 22:43:43.044 -06:00 [INF] Application is shutting down...
+2022-10-04 22:43:43.047 -06:00 [DBG] Hosting stopping
+2022-10-04 22:43:43.074 -06:00 [DBG] Hosting stopped

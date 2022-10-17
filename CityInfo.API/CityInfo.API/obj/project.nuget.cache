@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "irVCP7ym/pfKdVduvmbXHKu2zllMlmmMDFrzEZc7RCiIR8qqJv+qp4nQoegEM0vW8urgFCsTNH4DYAm5BNVDTA==",
+  "dgSpecHash": "3lJa22k/y9LO0ApQGdpU10xHW1FGyFCDXUyCGDBEMpcsWix8SzMGkMzNBg2mPHUo3Q8d/w+AZlBBJzBgmOhDPg==",
   "success": true,
   "projectFilePath": "/Users/alexparrales/Projects/CityInfo/CityInfo.API/CityInfo.API/CityInfo.API.csproj",
   "expectedPackageFiles": [
@@ -13,6 +13,7 @@
     "/Users/alexparrales/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/6.0.9/microsoft.aspnetcore.authentication.jwtbearer.6.0.9.nupkg.sha512",
     "/Users/alexparrales/.nuget/packages/microsoft.aspnetcore.jsonpatch/6.0.9/microsoft.aspnetcore.jsonpatch.6.0.9.nupkg.sha512",
     "/Users/alexparrales/.nuget/packages/microsoft.aspnetcore.mvc.newtonsoftjson/6.0.9/microsoft.aspnetcore.mvc.newtonsoftjson.6.0.9.nupkg.sha512",
+    "/Users/alexparrales/.nuget/packages/microsoft.aspnetcore.mvc.versioning/5.0.0/microsoft.aspnetcore.mvc.versioning.5.0.0.nupkg.sha512",
     "/Users/alexparrales/.nuget/packages/microsoft.aspnetcore.razor.language/6.0.0/microsoft.aspnetcore.razor.language.6.0.0.nupkg.sha512",
     "/Users/alexparrales/.nuget/packages/microsoft.bcl.asyncinterfaces/5.0.0/microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
     "/Users/alexparrales/.nuget/packages/microsoft.build/17.0.0/microsoft.build.17.0.0.nupkg.sha512",

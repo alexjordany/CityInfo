@@ -1,20 +1,28 @@
 ﻿<Properties StartupConfiguration="{B3A703D1-D36A-4096-8216-46C9172F7DCE}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="CityInfo.API/appsettings.Development.json">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CityInfo.API/Controllers/PointsOfInterestController.cs">
     <Files>
-      <File FileName="CityInfo.API/appsettings.Development.json" Line="15" Column="81" />
-      <File FileName="CityInfo.API/appsettings.json" Line="1" Column="1" />
+      <File FileName="CityInfo.API/Models/PointOfInterestForUpdateDto.cs" Line="1" Column="1" />
+      <File FileName="CityInfo.API/Controllers/CitiesController.cs" Line="1" Column="1" />
+      <File FileName="CityInfo.API/Controllers/PointsOfInterestController.cs" Line="74" Column="46" />
+      <File FileName="CityInfo.API/Controllers/FilesController.cs" Line="1" Column="1" />
+      <File FileName="CityInfo.API/Controllers/AuthenticationController.cs" Line="1" Column="1" />
+      <File FileName="CityInfo.API/Models/AuthenticationRequestBody.cs" Line="1" Column="1" />
+      <File FileName="CityInfo.API/Models/CityWithoutPointsOfInterestDto.cs" Line="1" Column="1" />
+      <File FileName="CityInfo.API/Models/CityDto.cs" Line="1" Column="1" />
+      <File FileName="CityInfo.API/Models/PointOfInterestForCreationDto.cs" Line="1" Column="1" />
+      <File FileName="CityInfo.API/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CityInfo.API" expanded="True">
             <Node name="CityInfo.API" expanded="True">
-              <Node name="Controllers" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="PointsOfInterestController.cs" selected="True" />
+              </Node>
               <Node name="Entities" expanded="True" />
               <Node name="Models" expanded="True" />
-              <Node name="appsettings.json" expanded="True">
-                <Node name="appsettings.Development.json" selected="True" />
-              </Node>
+              <Node name="appsettings.json" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -24,11 +32,11 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.CityInfo.API PreferredExecutionTarget="/Applications/Safari.app" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CityInfo.API PreferredExecutionTarget="/Applications/Safari.app" />
 </Properties>
